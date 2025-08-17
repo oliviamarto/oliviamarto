@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 💻 Software Engineer at Fiserv<br></br> 💖 Passionate about building scalable systems and always learning new things <br></br>
+### 💻 Software Engineer at Fiserv<br></br> 👩‍💻 Computer Science graduate from NJIT <br></br> 💖 Passionate about building scalable systems and always learning new things <br></br>
 ### 🚀 Featured Projects:<br><br>
 
 
