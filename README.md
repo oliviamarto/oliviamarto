@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineer | Passionate about building scalable systems, solving complex problems, and creating technology that makes an impact.<br></br>
+## 💻 Software Engineer | Passionate about building scalable systems, solving complex problems, and creating technology that makes an impact.<br></br>
 🚀 Featured Projects:<br><br>
 
 
